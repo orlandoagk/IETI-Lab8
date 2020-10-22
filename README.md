@@ -1,5 +1,20 @@
 # 2.2 Spring Boot Secure API
 
+## Deploy Badges
+
+
+**Azure Functions NodeJS App**
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://ieti-lab7-orlando.azurewebsites.net/api/add-task?code=D99RZ9uyb4bavwrR6s1c87KrRLnYPMr4f1gzkLgK3fGKV7oerQGTOg==)
+
+**Java Backend App**
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://backendietilab8.herokuapp.com/)
+
+**ReactJS Frontend App**
+
+[![firebase](https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-128.png)](https://taskplanner-ba10a.web.app)
+
 ## Codigo de Honor
 
 La presencia de este documento en este repositorio es un compromiso explícito de los colaboradores de seguir el siguiente código de honor:
@@ -13,6 +28,13 @@ Debes seguir el Código de honor del ingeniero de sistemas para defender el est�
 - No puedes compartir tus soluciones de tareas, cuestionarios o exámenes con otra persona a menos que el instructor lo permita explícitamente. Esto incluye cualquier cosa escrita por ti, como también cualquier solución oficial proporcionada por el docente o el monitor del curso.
 
 - No puedes participar en otras actividades que mejorarán de manera deshonesta tus resultados o que mejorarán de manera deshonesta o dañarán los resultados de otras personas.
+
+## Usuario
+
+```
+email: test@mail.com
+contraseña: password
+```
 
 **Goals**
 
